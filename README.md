@@ -1,0 +1,2 @@
+# JenkinsFile
+has pipeline file
